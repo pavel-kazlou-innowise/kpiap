@@ -1,0 +1,15 @@
+/Users/user/kpiap2/kpiap/Lab25/Lab25GeometricProgression/bin/Release/net7.0/Lab25GeometricProgression
+/Users/user/kpiap2/kpiap/Lab25/Lab25GeometricProgression/bin/Release/net7.0/Lab25GeometricProgression.deps.json
+/Users/user/kpiap2/kpiap/Lab25/Lab25GeometricProgression/bin/Release/net7.0/Lab25GeometricProgression.runtimeconfig.json
+/Users/user/kpiap2/kpiap/Lab25/Lab25GeometricProgression/bin/Release/net7.0/Lab25GeometricProgression.dll
+/Users/user/kpiap2/kpiap/Lab25/Lab25GeometricProgression/bin/Release/net7.0/Lab25GeometricProgression.pdb
+/Users/user/kpiap2/kpiap/Lab25/Lab25GeometricProgression/obj/Release/net7.0/Lab25GeometricProgression.csproj.AssemblyReference.cache
+/Users/user/kpiap2/kpiap/Lab25/Lab25GeometricProgression/obj/Release/net7.0/Lab25GeometricProgression.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/kpiap2/kpiap/Lab25/Lab25GeometricProgression/obj/Release/net7.0/Lab25GeometricProgression.AssemblyInfoInputs.cache
+/Users/user/kpiap2/kpiap/Lab25/Lab25GeometricProgression/obj/Release/net7.0/Lab25GeometricProgression.AssemblyInfo.cs
+/Users/user/kpiap2/kpiap/Lab25/Lab25GeometricProgression/obj/Release/net7.0/Lab25GeometricProgression.csproj.CoreCompileInputs.cache
+/Users/user/kpiap2/kpiap/Lab25/Lab25GeometricProgression/obj/Release/net7.0/Lab25GeometricProgression.dll
+/Users/user/kpiap2/kpiap/Lab25/Lab25GeometricProgression/obj/Release/net7.0/refint/Lab25GeometricProgression.dll
+/Users/user/kpiap2/kpiap/Lab25/Lab25GeometricProgression/obj/Release/net7.0/Lab25GeometricProgression.pdb
+/Users/user/kpiap2/kpiap/Lab25/Lab25GeometricProgression/obj/Release/net7.0/Lab25GeometricProgression.genruntimeconfig.cache
+/Users/user/kpiap2/kpiap/Lab25/Lab25GeometricProgression/obj/Release/net7.0/ref/Lab25GeometricProgression.dll

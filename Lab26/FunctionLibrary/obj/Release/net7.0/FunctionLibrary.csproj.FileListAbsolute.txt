@@ -1,0 +1,12 @@
+/Users/user/kpiap2/kpiap/Lab26/FunctionLibrary/bin/Release/net7.0/FunctionLibrary.deps.json
+/Users/user/kpiap2/kpiap/Lab26/FunctionLibrary/bin/Release/net7.0/FunctionLibrary.dll
+/Users/user/kpiap2/kpiap/Lab26/FunctionLibrary/bin/Release/net7.0/FunctionLibrary.pdb
+/Users/user/kpiap2/kpiap/Lab26/FunctionLibrary/obj/Release/net7.0/FunctionLibrary.csproj.AssemblyReference.cache
+/Users/user/kpiap2/kpiap/Lab26/FunctionLibrary/obj/Release/net7.0/FunctionLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/kpiap2/kpiap/Lab26/FunctionLibrary/obj/Release/net7.0/FunctionLibrary.AssemblyInfoInputs.cache
+/Users/user/kpiap2/kpiap/Lab26/FunctionLibrary/obj/Release/net7.0/FunctionLibrary.AssemblyInfo.cs
+/Users/user/kpiap2/kpiap/Lab26/FunctionLibrary/obj/Release/net7.0/FunctionLibrary.csproj.CoreCompileInputs.cache
+/Users/user/kpiap2/kpiap/Lab26/FunctionLibrary/obj/Release/net7.0/FunctionLibrary.dll
+/Users/user/kpiap2/kpiap/Lab26/FunctionLibrary/obj/Release/net7.0/refint/FunctionLibrary.dll
+/Users/user/kpiap2/kpiap/Lab26/FunctionLibrary/obj/Release/net7.0/FunctionLibrary.pdb
+/Users/user/kpiap2/kpiap/Lab26/FunctionLibrary/obj/Release/net7.0/ref/FunctionLibrary.dll
